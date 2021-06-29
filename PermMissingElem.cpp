@@ -10,4 +10,3 @@ int solution(vector<int> &A) {
     }
     return len+1;//마지막 원소가 없는 edge case
 }
-
